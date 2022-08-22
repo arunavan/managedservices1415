@@ -1,0 +1,16 @@
+2022-08-22 14:27:56.579  INFO 16256 --- [main] com.concretepage.MyApplication           : Starting MyApplication on DESKTOP-CGIT20S with PID 16256 (E:\ManagedServices\SpringBootModule\referencematerial\spring-boot-profiles-example\spring-boot-demo\target\classes started by USER in E:\ManagedServices\SpringBootModule\referencematerial\spring-boot-profiles-example\spring-boot-demo)
+2022-08-22 14:27:56.584  INFO 16256 --- [main] com.concretepage.MyApplication           : The following profiles are active: prod,animal_prod
+2022-08-22 14:27:56.711  INFO 16256 --- [main] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@2ca26d77: startup date [Mon Aug 22 14:27:56 IST 2022]; root of context hierarchy
+2022-08-22 14:28:00.589  INFO 16256 --- [main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8585 (http)
+2022-08-22 14:28:00.630  INFO 16256 --- [main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2022-08-22 14:28:00.633  INFO 16256 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.11
+2022-08-22 14:28:00.958  INFO 16256 --- [localhost-startStop-1] o.a.c.c.C.[.[.[/spring-boot-prod]        : Initializing Spring embedded WebApplicationContext
+2022-08-22 14:28:01.563  INFO 16256 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+2022-08-22 14:28:01.571  INFO 16256 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2022-08-22 14:28:01.572  INFO 16256 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2022-08-22 14:28:01.573  INFO 16256 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2022-08-22 14:28:01.573  INFO 16256 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2022-08-22 14:28:03.304  INFO 16256 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2022-08-22 14:28:03.553  INFO 16256 --- [main] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8585 (http)
+2022-08-22 14:28:03.575  INFO 16256 --- [main] com.concretepage.MyApplication           : Started MyApplication in 8.017 seconds (JVM running for 8.99)
+2022-08-22 14:28:10.357  INFO 16256 --- [http-nio-8585-exec-1] o.a.c.c.C.[.[.[/spring-boot-prod]        : Initializing Spring FrameworkServlet 'dispatcherServlet'
