@@ -1,0 +1,4 @@
+
+SpringBoot at command prompt
+
+c:\>spring run app.java -- --server.port=9000
