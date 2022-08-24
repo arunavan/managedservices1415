@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: USER
+Build-Jdk: 14.0.2
+Implementation-Title: Demo_SpringData_QueryCreation003
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.infy
+Implementation-URL: https://spring.io/projects/spring-boot/Demo_SpringDa
+ ta_QueryCreation003
+Created-By: Maven Integration for Eclipse
+
