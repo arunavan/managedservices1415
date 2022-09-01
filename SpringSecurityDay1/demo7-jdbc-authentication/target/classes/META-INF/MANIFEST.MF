@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: USER
+Build-Jdk: 14.0.2
+Implementation-Title: demo7-jdbc-authentication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.courier
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/demo7-jdbc-authentication
+Created-By: Maven Integration for Eclipse
+
