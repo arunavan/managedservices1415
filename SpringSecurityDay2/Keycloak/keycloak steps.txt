@@ -1,0 +1,8 @@
+java_home   :   C:\Program Files\Java\jdk-11.0.11
+
+\bin\kc.bat start
+
+\bin\kc.bat start-dev
+
+ http://localhost:8080
+ http://localhost:8080/auth 
